@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">protoprotojiga</string>
+    <string name="title_activity_proto1">proto1</string>
+    <string name="title_activity_listactivity">listactivity</string>
+    <string name="title_activity_info_page">InfoPage</string>
+    <string name="title_activity_infopage2">infopage2</string>
+    <string name="title_activity_proto2">proto2</string>
+    <string name="title_activity_notify">notifyActivity</string>
+</resources>
